@@ -1,4 +1,5 @@
 import add from "./modules/add";
+import divide from "./modules/divide";
 import subtract from "./modules/subtract";
 import multiply from "./modules/multiply";
 import {addTen, addFive} from "./modules/addNumbers";
